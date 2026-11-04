@@ -22,13 +22,13 @@ I'm Carlos Jerico Dela Torre, a founder, engineer, and community builder studyin
 
 ## Now
 
-**Co-Founder, [Axon Enjin](https://www.facebook.com/axon.enjin)**
+**Co-Founder, [Axon Enjin](https://www.facebook.com/axon.enjin)**<br>
 Platforms, automations, and digital infrastructure that turn complex workflows into scalable systems.
 
-**Co-Founder & CEO, [Seekers Guild](https://www.facebook.com/seekersguildcommunity)**
+**Co-Founder & CEO, [Seekers Guild](https://www.facebook.com/seekersguildcommunity)**<br>
 A community where builders and leaders practice collaboration in public.
 
-**Chief Technology Officer, [GDG on Campus PUP](https://www.facebook.com/gdg.pupmnl)**
+**Chief Technology Officer, [GDG on Campus PUP](https://www.facebook.com/gdg.pupmnl)**<br>
 Technical direction for a student technology community of 1,600+ members.
 
 <p align="center">
