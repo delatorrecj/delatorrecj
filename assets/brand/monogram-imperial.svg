@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" fill="none" role="img" aria-labelledby="monogramTitle">
+  <title id="monogramTitle">Dela Torre monogram</title>
+  <rect x="265" y="180" width="235" height="30" fill="#001D51"/>
+  <rect y="180" width="235" height="30" fill="#001D51"/>
+  <rect y="240" width="175" height="30" fill="#001D51"/>
+  <rect x="470" y="150" width="150" height="30" transform="rotate(-90 470 150)" fill="#001D51"/>
+  <rect x="265" y="500" width="320" height="30" transform="rotate(-90 265 500)" fill="#001D51"/>
+  <rect x="205" y="500" width="320" height="30" transform="rotate(-90 205 500)" fill="#001D51"/>
+  <rect x="145" y="500" width="260" height="30" transform="rotate(-90 145 500)" fill="#001D51"/>
+  <rect x="325" y="240" width="175" height="30" fill="#001D51"/>
+  <rect x="325" y="500" width="260" height="30" transform="rotate(-90 325 500)" fill="#001D51"/>
+  <rect y="150" width="150" height="30" transform="rotate(-90 0 150)" fill="#001D51"/>
+  <rect x="265" y="120" width="235" height="30" fill="#001D51"/>
+  <rect x="265" y="60" width="175" height="30" fill="#001D51"/>
+  <rect x="60" y="60" width="175" height="30" fill="#001D51"/>
+  <rect y="120" width="235" height="30" fill="#001D51"/>
+  <rect x="205" y="150" width="90" height="30" transform="rotate(-90 205 150)" fill="#001D51"/>
+  <rect x="265" y="150" width="90" height="30" transform="rotate(-90 265 150)" fill="#001D51"/>
+  <rect width="500" height="30" fill="#001D51"/>
+</svg>
