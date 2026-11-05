@@ -59,7 +59,7 @@ Nine hackathon titles. The latest is 2nd runner-up at [Camp Run 2026](https://ww
 - [Champion](https://www.linkedin.com/posts/delatorrecj_bpidatawave2025-bemorewithbpi-innovation-activity-7398251211604422656-qzZy), BPI DataWave 2025
 
 <p align="center">
-  <img src="assets/brand/cta.jpg" alt="Open for Speakership, Venture Collaboration, and Strategic Partnerships.">
+  <img src="assets/brand/cta.jpg" alt="Open for Speakership, Venture Collaboration and Strategic Partnerships.">
 </p>
 
 <p align="center">
