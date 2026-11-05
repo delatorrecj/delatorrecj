@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/hero.jpg" alt="Carlos Jerico Dela Torre, PH100 Honoree, StellarPH 2026. I build the systems behind ambitious ideas. Co-founder and CEO of Axon Enjin and Seekers Guild, in Manila.">
+  <img src="assets/brand/hero.jpg" alt="Carlos Jerico Dela Torre, PH100 Honoree. I build things that bring ideas to life. Exploring the intersection of technology, business, and people. Manila.">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="mailto:carlosjericodelatorre@gmail.com"><img src="assets/brand/link-email.png" alt="Email carlosjericodelatorre@gmail.com" height="48"></a>
 </p>
 
-I'm Carlos Jerico Dela Torre, a computer engineering student at the Polytechnic University of the Philippines. I build the systems behind ambitious ideas, and I do that work in public with other people.
+I'm Carlos Jerico Dela Torre, a computer engineering student at the Polytechnic University of the Philippines. I build things that bring ideas to life, and I do that work in public with other people.
 
 [StellarPH](https://stellarph.io/programs/ph100/2026) named me a PH100 Honoree for 2026, one of 100 people under 30 in the Philippines. My name is on that list because of the people I build with, especially [Seekers Guild](https://www.facebook.com/seekersguildcommunity).
 
