@@ -15,7 +15,7 @@ I'm Carlos Jerico Dela Torre, a computer engineering student at the Polytechnic 
 [StellarPH](https://stellarph.io/programs/ph100/2026) named me a PH100 Honoree for 2026, one of 100 people under 30 in the Philippines. My name is on that list because of the people I build with, especially [Seekers Guild](https://www.facebook.com/seekersguildcommunity).
 
 <p align="center">
-  <img src="assets/brand/impact.png" alt="1,600 plus community members, 9 hackathon titles, and PH100 Honoree, StellarPH 2026.">
+  <img src="assets/brand/impact.jpg" alt="1,600 plus community members, 9 hackathon titles, and PH100 Honoree, StellarPH 2026.">
 </p>
 
 ## Now
@@ -59,7 +59,7 @@ Nine hackathon titles. The latest is 2nd runner-up at [Camp Run 2026](https://ww
 - [Champion](https://www.linkedin.com/posts/delatorrecj_bpidatawave2025-bemorewithbpi-innovation-activity-7398251211604422656-qzZy), BPI DataWave 2025
 
 <p align="center">
-  <img src="assets/brand/cta.jpg" alt="Open to speaking and partnerships. Axon Enjin and Seekers Guild.">
+  <img src="assets/brand/cta.jpg" alt="Open for Speakership, Venture Collaboration, and Strategic Partnerships.">
 </p>
 
 <p align="center">
