@@ -18,6 +18,10 @@ I'm Carlos Jerico Dela Torre, a computer engineering student at the Polytechnic 
   <img src="assets/brand/impact.jpg" alt="1,600 plus community members, 9 hackathon titles, and PH100 Honoree, StellarPH 2026.">
 </p>
 
+<p align="center">
+  <img src="assets/brand/ascii.jpg" alt="ASCII drawing of the Dela Torre monogram." width="300">
+</p>
+
 ## Now
 
 **Co-Founder and CEO, [Axon Enjin](https://www.facebook.com/axon.enjin)**<br>
@@ -31,6 +35,14 @@ The community I founded for builders who are still looking for a room. This is t
 
 **AI Product and Strategy Manager, ED3N Ventures**<br>
 Part-time. Reference AI products, and workshops people leave able to ship.
+
+## The map
+
+Seekers Guild is the room, Axon Enjin is the studio, and the advisory seats keep the communities building.
+
+<p align="center">
+  <img src="assets/brand/map.jpg" alt="Community, Seekers Guild. Studio, Axon Enjin. Advisory, GDG and Microsoft. Systems along the base: MATRIX, Archon, Mate, Drowzi, and Stella." width="760">
+</p>
 
 ## Selected systems
 
@@ -50,6 +62,10 @@ Public code: [MATRIX](https://github.com/delatorrecj/matrix) and [Stella](https:
 ## Recognition
 
 Nine hackathon titles. The latest is 2nd runner-up at [Camp Run 2026](https://www.linkedin.com/posts/keanuagustin31_hermesagent-agenticai-hackathon-activity-7517910200134074368-rICh), with Axon Enjin.
+
+<p align="center">
+  <img src="assets/brand/year.jpg" alt="The year, from BPI in November 2025 through Stella, Cursor, Stellar, KPMG, ASEAN, PH100, and Camp Run." width="760">
+</p>
 
 - [PH100 Honoree](https://stellarph.io/programs/ph100/2026), StellarPH 2026
 - [Most Innovative AI](https://www.linkedin.com/posts/delatorrecj_aseanaihackathon-matrix-mostinnovativeai-ugcPost-7497339759036407809-pU6v/), ASEAN AI Hackathon 2026
